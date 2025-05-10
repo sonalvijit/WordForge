@@ -1,0 +1,402 @@
+[
+    {
+        "phrase": "Abstain from",
+        "example": "Many people abstain from alcohol due to religious beliefs."
+    },
+    {
+        "phrase": "Refrain from",
+        "example": "Please refrain from using your phone during the meeting."
+    },
+    {
+        "phrase": "Turn over",
+        "example": "The car hit a lamp post and turned over."
+    },
+    {
+        "phrase": "Turn up",
+        "example": "He did not turn up for the class today."
+    },
+    {
+        "phrase": "Turn over a new leaf",
+        "example": "He turned over a new leaf in his life after coming out of prison."
+    },
+    {
+        "phrase": "Thank for",
+        "example": "I thanked him for his kindness."
+    },
+    {
+        "phrase": "Think of",
+        "example": "What do you think of him as a student?"
+    },
+    {
+        "phrase": "Think about",
+        "example": "You should think seriously about your future."
+    },
+    {
+        "phrase": "Threaten with",
+        "example": "He has been threatened with dismissal from his job."
+    },
+    {
+        "phrase": "Tire of",
+        "example": "I am tired of studying so hard."
+    },
+    {
+        "phrase": "Translate into",
+        "example": "Please translate English into Hindi."
+    },
+    {
+        "phrase": "Warn of",
+        "example": "He was warmed by the danger of going out alone at night."
+    },
+    {
+        "phrase": "Warn against",
+        "example": "The children were warned against making any noise."
+    },
+    {
+        "phrase": "Wonder at",
+        "example": "Everyone is curious about the beauty of the Taj Mahal."
+    },
+    {
+        "phrase": "Absent from",
+        "example": "He was absent from this class."
+    },
+    {
+        "phrase": "Noted for",
+        "example": "Sachin Tendulkar is noted for his batting."
+    },
+    {
+        "phrase": "Obedient to",
+        "example": "Children should always be obedient to their parents."
+    },
+    {
+        "phrase": "Offended at",
+        "example": "He was offended by your remarks."
+    },
+    {
+        "phrase": "New to",
+        "example": "I am new to this city."
+    },
+    {
+        "phrase": "Overcome with",
+        "example": "I was overcome with sorrow when I heard of my friend's death."
+    },
+    {
+        "phrase": "Parallel to",
+        "example": "Railway tracks always run parallel to each other."
+    },
+    {
+        "phrase": "Partial to",
+        "example": "A mother is always partial to her son."
+    },
+    {
+        "phrase": "Absorbed in",
+        "example": "He was so absorbed in his book that he didn't hear the phone ring."
+    },
+    {
+        "phrase": "Accustomed to",
+        "example": "She is accustomed to waking up early every morning."
+    },
+    {
+        "phrase": "Afflicted with",
+        "example": "The region was afflicted with poverty and unemployment."
+    },
+    {
+        "phrase": "Afraid of",
+        "example": "I'm afraid of making mistakes in my work."
+    },
+    {
+        "phrase": "Akin to (Similar to)",
+        "example": "His way of thinking is akin to that of a philosopher."
+    },
+    {
+        "phrase": "Ashamed of",
+        "example": "He was ashamed of lying to his parents."
+    },
+    {
+        "phrase": "Astonished at",
+        "example": "He was astonished at our sudden arrival at his house."
+    },
+    {
+        "phrase": "Attached to",
+        "example": "He is very attached to his mother."
+    },
+    {
+        "phrase": "Averse to",
+        "example": "The circumstances were averse to our plan."
+    },
+    {
+        "phrase": "Aware of",
+        "example": "She is aware of the risks involved."
+    },
+    {
+        "phrase": "At ease",
+        "example": "She felt at ease in her new job."
+    },
+    {
+        "phrase": "At war",
+        "example": "The two countries are at war."
+    },
+    {
+        "phrase": "At a lose",
+        "example": "I was at a loss for words after hearing the shocking news."
+    },
+    {
+        "phrase": "At least",
+        "example": "Drink at least eight glasses of water every day."
+    },
+    {
+        "phrase": "At most",
+        "example": "I can lend you $20 at most."
+    },
+    {
+        "phrase": "At any rate",
+        "example": "I\u2019m not sure if he\u2019ll come, but at any rate, we should start the meeting on time."
+    },
+    {
+        "phrase": "At a time",
+        "example": "You can borrow only three books at a time from the library."
+    },
+    {
+        "phrase": "At arm's length",
+        "example": "You should keep strangers at arm's length."
+    },
+    {
+        "phrase": "At a standstill",
+        "example": "Traffic was at a standstill due to the accident on the highway."
+    },
+    {
+        "phrase": "At short notice",
+        "example": "She had to prepare a presentation at short notice."
+    },
+    {
+        "phrase": "At it again",
+        "example": "My neighbors are at it again with their loud music late at night."
+    },
+    {
+        "phrase": "At all",
+        "example": "Do you care about this at all?"
+    },
+    {
+        "phrase": "At best",
+        "example": "The project will be completed in a month at best."
+    },
+    {
+        "phrase": "At home",
+        "example": "He feels at home whenever he visits his grandmother\u2019s house."
+    },
+    {
+        "phrase": "Blind to",
+        "example": "He is blind to his own mistakes."
+    },
+    {
+        "phrase": "Bound for",
+        "example": "The train is bound for New York."
+    },
+    {
+        "phrase": "Bound by",
+        "example": "Employees are bound by the company\u2019s confidentiality agreement."
+    },
+    {
+        "phrase": "Cruel to",
+        "example": "He was cruel to his younger brother."
+    },
+    {
+        "phrase": "Content with",
+        "example": "She is content with her simple life in the countryside."
+    },
+    {
+        "phrase": "Close by",
+        "example": "There\u2019s a coffee shop close by if you need a break."
+    },
+    {
+        "phrase": "Deficient in",
+        "example": "She is deficient in vitamin D."
+    },
+    {
+        "phrase": "Devoid of",
+        "example": "The desert is devoid of water."
+    },
+    {
+        "phrase": "Dependent on",
+        "example": "Children are dependent on their parents for food and shelter."
+    },
+    {
+        "phrase": "Determined to",
+        "example": "She is determined to pass the exam."
+    },
+    {
+        "phrase": "Disappointed at",
+        "example": "She was disappointed with the test results."
+    },
+    {
+        "phrase": "Engaged in",
+        "example": "She is engaged in a new research project at the university."
+    },
+    {
+        "phrase": "Engaged to",
+        "example": "She is engaged to her high school sweetheart."
+    },
+    {
+        "phrase": "Envious of",
+        "example": "She was envious of her friend's success."
+    },
+    {
+        "phrase": "Exempt from",
+        "example": "Students with medical conditions are exempt from physical education classes."
+    },
+    {
+        "phrase": "Familiar with",
+        "example": "I am familiar with Python programming."
+    },
+    {
+        "phrase": "Fond of",
+        "example": "She is very fond of her little brother."
+    },
+    {
+        "phrase": "Full of",
+        "example": "The glass is full of water."
+    },
+    {
+        "phrase": "Good at",
+        "example": "She is good at math."
+    },
+    {
+        "phrase": "Grateful for",
+        "example": "I am grateful for your help."
+    },
+    {
+        "phrase": "Guilty of",
+        "example": "He was found guilty of theft and sentenced to prison."
+    },
+    {
+        "phrase": "Indifferent to",
+        "example": "He seemed indifferent to the praise he received."
+    },
+    {
+        "phrase": "Innocent of",
+        "example": "The court declared him innocent of all charges."
+    },
+    {
+        "phrase": "Interested in",
+        "example": "She is interested in painting and photography."
+    },
+    {
+        "phrase": "Just to",
+        "example": "She stayed late just to finish the project on time."
+    },
+    {
+        "phrase": "Kind to",
+        "example": "She is always kind to animals."
+    },
+    {
+        "phrase": "Liable to",
+        "example": "If you break the contract, you will be liable to legal action."
+    },
+    {
+        "phrase": "Loyal to",
+        "example": "She has always been loyal to her best friend."
+    },
+    {
+        "phrase": "Particular about",
+        "example": "He is very particular about his job."
+    },
+    {
+        "phrase": "Patient with",
+        "example": "A salesman should always be patient with his customers."
+    },
+    {
+        "phrase": "Pleased with",
+        "example": "I am pleased with your performance in the test."
+    },
+    {
+        "phrase": "Pleased to",
+        "example": "I am pleased to inform you that you have passed the exam."
+    },
+    {
+        "phrase": "Prejudiced against",
+        "example": "He was prejudiced against people from different backgrounds."
+    },
+    {
+        "phrase": "Proud of",
+        "example": "He is very proud of his achievements."
+    },
+    {
+        "phrase": "Qualified for",
+        "example": "He is not qualified enough for this post."
+    },
+    {
+        "phrase": "Qualified to",
+        "example": "She is qualified to teach English."
+    },
+    {
+        "phrase": "Related to",
+        "example": "This book is related to history."
+    },
+    {
+        "phrase": "Regardless of",
+        "example": "We will go outside regardless of the weather."
+    },
+    {
+        "phrase": "Supply with",
+        "example": "The contractor has supplied us with substandard material."
+    },
+    {
+        "phrase": "Suspect of",
+        "example": "The police suspect him of being a criminal."
+    },
+    {
+        "phrase": "Sympathize with",
+        "example": "He did not even sympathize with me."
+    },
+    {
+        "phrase": "Taste of",
+        "example": "I love the taste of chocolate."
+    },
+    {
+        "phrase": "Take after",
+        "example": "He has taken after his father in his habits."
+    },
+    {
+        "phrase": "Take down",
+        "example": "He did not take down the notes given in the class."
+    },
+    {
+        "phrase": "Take for",
+        "example": "I took him for an honest person."
+    },
+    {
+        "phrase": "Take off",
+        "example": "The plane took off on time.\nHe took off his shirt because of the heat."
+    },
+    {
+        "phrase": "Take over",
+        "example": "The new chief minister has not taken over as yet."
+    },
+    {
+        "phrase": "Take up (to deal)",
+        "example": "I shall take up this matter in the Supreme Court."
+    },
+    {
+        "phrase": "Turn against",
+        "example": "The People have turned against the king."
+    },
+    {
+        "phrase": "Turn away",
+        "example": "Turn him away when he comes here."
+    },
+    {
+        "phrase": "Turn down (to reject)",
+        "example": "His appeal has been turned down by the High Court."
+    },
+    {
+        "phrase": "Turn on (to switch on)",
+        "example": "He turned on the fan."
+    },
+    {
+        "phrase": "Turn off (to switch off)",
+        "example": "Turn off the TV."
+    },
+    {
+        "phrase": "Turn out",
+        "example": "Turn him out of the room.\nPeople turned out in large numbers to attend the meeting."
+    }
+]

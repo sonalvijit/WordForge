@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Proper Sentence in English</title>
+     <style>
+          * {
+               margin: 0;
+               padding: 0;
+               box-sizing: border-box;
+
+               font-family: Poppins;
+          }
+
+          html,
+          body {
+               width: 100%;
+               height: 100%;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+               overflow: auto;
+          }
+
+          .container {
+               width: 650px;
+               display: flex;
+               flex-direction: column;
+          }
+
+          #form-data {
+               display: flex;
+               flex-direction: column;
+               padding: 20px;
+               gap: 20px;
+          }
+
+          textarea {
+               width: 100%;
+               min-height: 50px;
+               resize: none;
+               overflow: hidden;
+               padding: 10px;
+               outline: none;
+               font-size: 16px;
+               border: 1px solid #ccc;
+               border-radius: 5px;
+          }
+
+          .inpt_box {
+               padding: 10px 5px 10px 5px;
+               border: 1px solid #ccc;
+               outline: none;
+               border-radius: 5px;
+               font-size: 16px;
+               padding: 10px;
+          }
+
+          input[type="submit"] {
+               padding: 10px;
+               border: none;
+               outline: none;
+               border-radius: 5px;
+               font-weight: bolder;
+               color: rgb(0, 77, 92);
+               background-color: rgba(0, 212, 255, 1);
+               transition: all ease 0.5s;
+          }
+
+          input[type="submit"]:hover {
+               background-color: rgba(0, 77, 92);
+               color: rgba(0, 212, 255, 1);
+          }
+
+          #toast {
+               visibility: hidden;
+               min-width: 250px;
+               background-color: #4CAF50;
+               color: white;
+               text-align: center;
+               border-radius: 5px;
+               padding: 16px;
+               position: fixed;
+               left: 50%;
+               bottom: 30px;
+               transform: translateX(-50%);
+               font-size: 17px;
+               box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+          }
+
+          #toast.show {
+               visibility: visible;
+               animation: fadein 0.5s, fadeout 0.5s 2.5s;
+          }
+
+          @keyframes fadein {
+               from {
+                    opacity: 0;
+               }
+
+               to {
+                    opacity: 1;
+               }
+          }
+
+          @keyframes fadeout {
+               from {
+                    opacity: 1;
+               }
+
+               to {
+                    opacity: 0;
+               }
+          }
+     </style>
+</head>
+
+<body>
+     <div class="container">
+          <form id="form-data" action="" method="post">
+               <input class="inpt_box" type="text" name="phrase" placeholder="PHRASE">
+               <input class="inpt_box" type="text" name="meaning" placeholder="MEANING">
+               <input class="inpt_box" type="text" name="phrase_type" placeholder="PHRASE TYPE">
+               <input class="inpt_box" type="text" name="note" placeholder="NOTE">
+               <textarea name="example" id="expandableTextarea" placeholder="WRITE EXAMPLE"></textarea>
+               <input type="submit" value="SUBMIT">
+          </form>
+          <div id="toast"></div>
+     </div>
+     <script>
+          const textarea = document.getElementById("expandableTextarea");
+
+          textarea.addEventListener("input", function () {
+               this.style.height = "auto";
+               this.style.height = this.scrollHeight + "px";
+          });
+
+
+          document.getElementById("form-data").addEventListener("submit", function (event) {
+               event.preventDefault();
+
+
+               const formData = new FormData(this);
+               const jsonObject = {};
+
+
+               formData.forEach((value, key) => jsonObject[key] = value);
+
+
+               fetch("http://192.168.29.108:5000/submit", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(jsonObject)
+               })
+                    .then(response => {
+                         return response.json().then(data => {
+                              if (!response.ok) {
+                                   throw new Error(data.error || "Something went wrong!");
+                              }
+                              return data;
+                         });
+                    })
+                    .then(data => {
+                         showToast(data.message + " ✅", "#4CAF50");
+                         document.getElementById("form-data").reset();
+                    })
+                    .catch(error => {
+                         showToast(error.message + " ❌", "#f44336");
+                    });
+          });
+
+
+          function showToast(message, bgColor) {
+               const toast = document.getElementById("toast");
+               toast.textContent = message;
+               toast.style.backgroundColor = bgColor;
+               toast.className = "show";
+               setTimeout(() => { toast.className = toast.className.replace("show", ""); }, 3000);
+          }
+     </script>
+</body>
+
+</html>

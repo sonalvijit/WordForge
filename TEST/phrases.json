@@ -1,0 +1,1198 @@
+[
+    {
+        "phrase": "Abstain from",
+        "meaning": "To deliberately avoid or refrain from doing something, especially something that may be harmful or undesirable.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He decided to abstain from smoking for health reasons. (He chose not to smoke due to health concerns.)",
+            "She abstained from voting in the election because she didn\u2019t agree with any candidate. (She chose not to vote.)",
+            "Many people abstain from alcohol due to religious beliefs."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Refrain from",
+        "meaning": "To stop oneself from doing something or avoid engaging in a particular action or behavior, often for self-control or discipline.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "She refrained from making any comments during the argument. (She chose not to speak during the argument.)",
+            "He refrained from eating dessert because he was on a diet. (He avoided eating dessert to stick to his diet.)",
+            "Please refrain from using your phone during the meeting."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn over",
+        "meaning": "to flip or rotate something to its opposite side, or to transfer control or responsibility to someone else.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He turned over the page to continue reading. (He flipped the page to the next one.)",
+            "The manager will turn over the project to the new team. (The manager will pass responsibility for the project to the new team.)",
+            "The company\u2019s leadership turned over every few years. (The leadership changed frequently.)",
+            "The engine turned over but wouldn't start. (The engine attempted to start but failed.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn up",
+        "meaning": "to arrive or appear unexpectedly or increase the volume or intensity of something.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He didn't turn up for the meeting on time. (He did not show up at the meeting on time.)",
+            "Could you turn up the music? It's too quiet. (Increase the volume of the music.)",
+            "Your keys might turn up in your coat pocket. (Your keys might be found in your coat pocket.)",
+            "He did not turn up for the class today. (He did not showed up to the class)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn over a new leaf",
+        "meaning": "To start fresh or make a positive change in one's behavior, habits, or attitude, especially after a period of difficulty or bad behavior.",
+        "phrase_type": "Idiom (Verb + Noun)",
+        "example": [
+            "After the tough year, he decided to turn over a new leaf and start exercising regularly. (He chose to begin a healthier lifestyle.)",
+            "After his legal troubles, he turned over a new leaf and focused on rebuilding his career. (He made a fresh start after his past issues.)",
+            "He turned over a new leaf in his life after coming out of prison."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Thank for",
+        "meaning": "The expression \"thank for\" is not used by itself in English. Instead, the correct form is \"thank (someone) for\" when expressing gratitude toward a specific person or action.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "I thanked him for his kindness.",
+            "I thank you for helping me with the project. (Gratitude is expressed for the specific help given.)",
+            "I want to thank you for your time and effort. (Gratitude is directed at the time and effort the person has put in.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Think of",
+        "meaning": "\"Think of\" is used to express the act of considering or having an idea about something or someone. It can also refer to recalling or remembering something or someone.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "When you think of Paris, what comes to your mind? (What ideas or images do you associate with Paris?)",
+            "I can't think of a reason why we shouldn't go. (I can\u2019t come up with any reason.)",
+            "What do you think of this movie? (What is your opinion about this movie?)",
+            "What do you think of him as a student?"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Think about",
+        "meaning": "\"Think about\" is used to consider or reflect on something in a deeper way. It often involves spending time thinking over an idea, situation, or issue.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "I need some time to think about your offer. (I need time to carefully consider the offer.)",
+            "Have you thought about the consequences of your decision? (Did you consider the potential results of your decision?)",
+            "I often think about the time we spent together. (I often remember or reflect on those moments.)",
+            "You should think seriously about your future."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Threaten with",
+        "meaning": "\"Threaten with\" is used when someone warns or intends to harm or punish someone by using something as leverage or a tool. It means to use a potential harmful action as a means of intimidation or coercion.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He has been threatened with dismissal from his job.",
+            "The man threatened her with a gun during the robbery. (He used the gun to threaten harm.)",
+            "She threatened him with legal action if he didn't stop spreading lies. (She warned him of the possibility of taking legal action.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Tire of",
+        "meaning": "\"Tire of\" means to lose interest in or become bored or weary with something or someone after a period of time.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "I am tired of studying so hard.",
+            "I eventually tired of the constant noise in the city. (I became tired or bored with the noise.)",
+            "He tired of waiting for her to call and stopped checking his phone. (He became impatient and lost interest in waiting.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Translate into",
+        "meaning": "\"Translate into\" is used when converting something from one language, form, or state into another. It can also be used metaphorically to describe the transformation of something into a different form or result.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "Please translate English into Hindi.",
+            "Can you translate this text into French? (Can you change the language of this text to French?)",
+            "Her hard work translated into success. (Her effort led to or resulted in success.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Warn of",
+        "meaning": "\"Warn of\" is used to alert or inform someone about a potential danger, problem, or issue that might occur. It emphasizes the act of providing caution or advice about something that could be harmful or undesirable.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He was warmed by the danger of going out alone at night.",
+            "The weather service warned of heavy rain and flooding. (They informed people about the potential for heavy rain and flooding.)",
+            "The sign warns of slippery floors. (The sign alerts people that the floor is slippery and could cause accidents.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Warn against",
+        "meaning": "\"Warn against\" is used when advising someone not to do something because it could be harmful, risky, or unwise. It implies caution and provides a negative warning about a specific action or behavior.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "The children were warned against making any noise.",
+            "The teacher warned against cheating during the exam. (The teacher advised students not to cheat.)",
+            "The doctor warned against excessive alcohol consumption. (The doctor advised not to drink too much alcohol because it could be harmful.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Wonder at",
+        "meaning": "to admire or marvel at something because it is impressive, amazing, or difficult to believe. It expresses a sense of awe or amazement toward something or someone.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "Everyone is curious about the beauty of the Taj Mahal.",
+            "She wondered at the beauty of the sunset. (She marvelled at how beautiful the sunset was.)",
+            "They wondered at the speed of the athlete during the race. (They were amazed by the athlete\u2019s speed.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Absent from",
+        "meaning": "It is used to indicate that someone is not present in a particular place or event. It can refer to both physical absence and emotional or mental absence.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He was absent from this class.",
+            "She was absent from class due to illness. (She was not present in class because she was sick.)",
+            "He seemed absent from the conversation, lost in his thoughts. (He was not mentally present or engaged in the conversation.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Noted for",
+        "meaning": "it is used to indicate that someone or something is recognized or famous for a particular quality, characteristic, or achievement. It highlights something that stands out as being significant or remarkable.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "Sachin Tendulkar is noted for his batting.",
+            "The city is noted for its beautiful architecture. (The city is well-known because of its beautiful architecture.)",
+            "The restaurant is noted for its unique blend of spices. (The restaurant is known for its special combination of spices.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Obedient to",
+        "meaning": "to follow instructions, rules, or authority and act according to what is required or expected. It suggests being compliant or submissive to someone or something.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "Children should always be obedient to their parents.",
+            "The dog was obedient to its owner, always following commands. (The dog complied with its owner's instructions.)",
+            "She was always obedient to her parents' wishes. (She followed her parents' instructions or desires.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Offended at",
+        "meaning": "to feel hurt, insulted, or upset by something that has been said or done. It implies that someone has taken offense or felt disrespected due to a particular action or remark.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "He was offended by your remarks.",
+            "He was offended at being left out of the meeting. (He felt hurt or insulted for not being included.)",
+            "They were offended at the tone of his email. (They felt disrespected by the tone of the email.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "New to",
+        "meaning": "it is used to describe someone who is unfamiliar with something or is experiencing something for the first time. It can refer to a person who is just starting out with a new activity, place, or experience.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "I am new to this city.",
+            "She is new to the company and is still learning the ropes. (She has just joined the company and is unfamiliar with how things work.)",
+            "He is new to cooking and is still figuring out basic recipes. (He has just started cooking and is not very experienced yet.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Overcome with",
+        "meaning": "to be strongly affected or overwhelmed by a particular feeling, emotion, or physical state. It implies that something has taken control or had a significant impact on someone.",
+        "phrase_type": "Phrasal Verb (Verb + Preposition)",
+        "example": [
+            "I was overcome with sorrow when I heard of my friend's death.",
+            "She was overcome with joy when she heard the good news. (She was so filled with happiness that it was overwhelming.)",
+            "The worker was overcome with exhaustion after the long shift. (The worker was extremely tired or fatigued from the work.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Parallel to",
+        "meaning": "it is used to describe something that is equally distant from or runs alongside something else, in the same direction, or is similar to it in some way. It can also refer to situations or actions that are comparable or analogous to one another.",
+        "phrase_type": "Phrasal Verb (Preposition + Noun)",
+        "example": [
+            "The two roads run parallel to each other for miles. (The two roads are next to each other and travel in the same direction.)",
+            "Her struggle was parallel to mine when I first started my business. (Her experience or challenge was similar to mine.)",
+            "Railway tracks always run parallel to each other."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Partial to",
+        "meaning": "to have a liking or preference for something or someone. It suggests that someone enjoys or favors a particular thing more than others, though it doesn't necessarily imply complete favoritism.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "A mother is always partial to her son.",
+            "She is partial to chocolate ice cream over vanilla. (She prefers chocolate ice cream more than vanilla.)",
+            "The teacher seemed partial to the quieter students. (The teacher showed a preference for the quieter students.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Absorbed in",
+        "meaning": "to be completely focused on or engrossed in something. It indicates that someone is deeply involved or engaged with an activity or thought, often to the point where they are unaware of their surroundings.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "He was so absorbed in his book that he didn't hear the phone ring.",
+            "She was absorbed in her book and didn\u2019t notice the time. (She was so focused on her reading that she didn\u2019t realize how much time had passed.)",
+            "The child was absorbed in playing video games and forgot to do his homework. (The child was so focused on the game that he neglected his homework.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Accustomed to",
+        "meaning": "to be familiar with or habitually used to something because of frequent exposure or experience. It indicates that someone has grown comfortable or adapted to a particular situation, environment, or activity.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "She is accustomed to waking up early every morning.",
+            "She is accustomed to waking up early for her morning runs. (She has gotten used to waking up early because she regularly runs in the morning.)",
+            "They are accustomed to working long hours during the busy season. (They are used to working long hours because it happens regularly.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Afflicted with",
+        "meaning": "to suffer from or be burdened by a condition, illness, or problem. It indicates that someone is experiencing a negative or harmful effect, often used for diseases, hardships, or emotional troubles.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "The region was afflicted with poverty and unemployment.",
+            "He was afflicted with a severe headache all day. (He had a painful headache that caused him distress throughout the day.)",
+            "The community was afflicted with poverty after the factory shut down. (The community suffered due to economic hardship after the factory closed.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Afraid of",
+        "meaning": "to be fearful or scared of something, whether it\u2019s an event, situation, object, or person. It refers to the feeling of fear or anxiety caused by the thought or presence of something.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "I'm afraid of making mistakes in my work.",
+            "She\u2019s afraid of spiders. (She feels fear or anxiety when she encounters spiders.)",
+            "They were afraid of failing the exam. (They were anxious about the possibility of failing the exam.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Akin to (Similar to)",
+        "meaning": "similar to or related to. It suggests that two things share common qualities or are comparable in some way.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "Her voice is akin to that of a famous singer. (Her voice is similar to the voice of a famous singer.)",
+            "The cultural practices in these two countries are akin to each other. (The cultural practices are similar or closely related.)",
+            "His way of thinking is akin to that of a philosopher."
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Ashamed of",
+        "meaning": "to feel embarrassed, guilty, or regretful about something, often because of personal actions, behaviors, or the actions of others. It reflects a sense of self-consciousness or moral discomfort about something one has done or been associated with.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "He was ashamed of lying to his parents.",
+            "He was ashamed of how he treated his friend. (He felt guilty or embarrassed about his poor treatment of his friend.)",
+            "They were ashamed of their son's behaviour at the party. (They felt embarrassed or disapproving of how their son behaved.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Astonished at",
+        "meaning": "to be greatly surprised or amazed by something. It indicates a strong reaction of shock or wonder caused by an unexpected or impressive event, action, or outcome.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "He was astonished at our sudden arrival at his house.",
+            "She was astonished at the beauty of the sunset. (She was extremely surprised by how beautiful the sunset was.)",
+            "I was astonished at the news of her sudden promotion. (I was shocked and surprised by her unexpected promotion.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Attached to",
+        "meaning": "to have a strong emotional connection or affection for something or someone, or to be physically connected or joined to something.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "He is very attached to his mother.",
+            "She\u2019s very attached to her childhood home. (She feels a strong emotional connection to her childhood home.)",
+            "The cable is attached to the computer. (The cable is physically connected to the computer.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Averse to",
+        "meaning": "having a strong dislike or opposition to something or someone. It suggests a reluctance or unwillingness towards something due to personal preference or belief.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "The circumstances were averse to our plan.",
+            "She is averse to taking unnecessary risks. (She strongly dislikes or opposes taking risks that aren't needed.)",
+            "They are averse to change and prefer the old system. (They dislike or are opposed to change and prefer things to remain the same.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Aware of",
+        "meaning": "having knowledge or understanding of something or being conscious of a particular situation, fact, or condition. It indicates being informed or alert about something.",
+        "phrase_type": "Phrasal Verb (Adjective + Preposition)",
+        "example": [
+            "She is aware of the risks involved.",
+            "She is aware of the challenges that come with the job. (She understands or knows about the challenges.)",
+            "Are you aware of the time? We\u2019re running late! (Are you conscious of how late it is?)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At ease",
+        "meaning": "to feel comfortable, relaxed, or free from worry. It often refers to a state of being calm and untroubled. In a military context, it can also refer to a relaxed stance or position when a soldier is not standing at attention.",
+        "phrase_type": "Adjective Phrase",
+        "example": [
+            "She felt at ease in her new job.",
+            "She felt at ease in the new environment. (She felt comfortable and relaxed in the new surroundings.)",
+            "He tried to make her feel at ease with his friendly conversation. (He tried to make her feel relaxed and less anxious.)",
+            "The soldiers stood at ease while waiting for the briefing. (The soldiers were in a relaxed stance, not at attention.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At war",
+        "meaning": "being engaged in a conflict or battle, typically referring to military conflict between nations or groups. It can also be used metaphorically to describe being in a state of intense disagreement or conflict in other areas, such as personal relationships or internal struggles.",
+        "phrase_type": "Adjective Phrase",
+        "example": [
+            "The two countries are at war.",
+            "The two countries were at war for over five years. (The two countries were involved in a military conflict for more than five years.)",
+            "He feels like he\u2019s at war with his own emotions. (He is experiencing an intense inner struggle with his emotions.)",
+            "The government is at war with corruption. (The government is actively fighting or opposing corruption.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At a lose",
+        "meaning": "being uncertain, confused, or unable to understand or respond to a situation. It can also refer to not knowing what to do or feeling bewildered.",
+        "phrase_type": "Adjective Phrase",
+        "example": [
+            "I was at a loss for words after hearing the shocking news.",
+            "I was at a loss for words when I heard the news. (I was so surprised or shocked that I didn\u2019t know how to respond.)",
+            "He was at a loss after the sudden change in plans. (He didn\u2019t understand what to do after the plans changed unexpectedly.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At least",
+        "meaning": "\"At least\" is used to indicate a minimum or lower bound, or to emphasize that something is better than nothing. It can express comforting certainty or a small but positive aspect of a situation, even when other aspects are negative.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "Drink at least eight glasses of water every day.",
+            "There were at least 50 people at the event. (The number of people at the event was no fewer than 50, possibly more.)",
+            "The weather isn\u2019t great, but at least it\u2019s not raining. (Though the weather is not ideal, it's still better than the alternative of rain.)",
+            "It\u2019s frustrating that the store is closed, but at least it will reopen tomorrow. (Despite the frustration, there\u2019s something positive to look forward to.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At most",
+        "meaning": "\"At most\" refers to the maximum limit or upper boundary of something, indicating that the number, amount, or level mentioned will not exceed that point. It is used to express the largest possible value or extent in a situation.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "I can lend you $20 at most.",
+            "You can bring at most two guests to the party. (You can bring up to two guests, but no more than that.)",
+            "I can help you for at most 30 minutes today. (I can assist you, but only for a maximum of 30 minutes.)",
+            "The project will cost at most $500. (The project will cost no more than $500.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At any rate",
+        "meaning": "to indicate that something is true or relevant, regardless of other factors, or to emphasize the point being made. It can also be used to move a conversation forward, especially when changing the subject or summarizing.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "I'm not sure if he'll come, but at any rate, we should start the meeting on time.",
+            "The weather was terrible, but at any rate, we still managed to complete the hike. (Despite the weather, we managed to finish the hike, which is the important point.)",
+            "We\u2019ll discuss the details later, but at any rate, we need to make a decision today. (We should make a decision now, even if we don\u2019t focus on details.)",
+            "It doesn\u2019t matter how difficult the task was; at any rate, we accomplished our goal. (The important thing is that the goal was accomplished, no matter the difficulty.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At a time",
+        "meaning": "to indicate one thing or action happening during a specific moment or in a single instance. It refers to the sequence or limitation of events, actions, or items.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "You can borrow only three books at a time from the library.",
+            "Please take the test one question at a time. (Focus on each question individually.)",
+            "The machine can only print two pages at a time. (The machine can print only two pages before stopping to reload or process.)",
+            "He was able to carry four bags at a time. (He could carry only four bags in one trip.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At arm's length",
+        "meaning": "to keep a safe distance or maintain emotional or physical separation from someone or something. It can also suggest not allowing someone too close to you, either physically or emotionally.",
+        "phrase_type": "Idiomatic Expression",
+        "example": [
+            "You should keep strangers at arm's length.",
+            "The dog was kept at arm's length to avoid any bites. (The dog was kept far enough away to ensure safety.)",
+            "He prefers to keep people at arm's length, avoiding close friendships. (He keeps a distance emotionally, not allowing anyone to get too close.)",
+            "The manager kept the new project at arm's length to see how the team would handle it. (The manager distanced themselves from direct involvement in the project.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At a standstill",
+        "meaning": "\"At a standstill\" means that something has completely stopped or is not progressing. It refers to a situation where there is no movement or no progress.",
+        "phrase_type": "Idiomatic Expression",
+        "example": [
+            "Traffic was at a standstill due to the accident on the highway.",
+            "The negotiations are at a standstill, and no one is agreeing on the terms. (The discussions are stuck with no further progress being made.)",
+            "Traffic was at a standstill because of the accident on the highway. (Cars were completely stopped due to the accident.)",
+            "The business was at a standstill after the sudden departure of the CEO. (The business halted because of the leadership change.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At short notice",
+        "meaning": "\"At short notice\" means that something is done with little warning or time in advance. It refers to situations where there is a very limited amount of time to prepare for something or to respond to a request.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "She had to prepare a presentation at short notice.",
+            "She was asked to give a presentation at short notice, so she didn\u2019t have time to prepare properly. (She was asked to present with very little time to get ready.)",
+            "They were able to find accommodation at short notice, thanks to a cancellation. (They found a place to stay at the last minute.)",
+            "The company had to fill the vacancy at short notice, so they hired someone temporarily. (The position was filled quickly, without much time to interview extensively.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At it again",
+        "meaning": "\"At it again\" refers to someone doing something repeatedly, often implying that the person is doing something annoying, mischievous, or habitual. It suggests that the action is happening again, usually after it has been done before.",
+        "phrase_type": "Informal Idiomatic Expression",
+        "example": [
+            "My neighbours are at it again with their loud music late at night.",
+            "Oh no, he\u2019s at it again\u2014trying to sneak snacks before dinner! (He is repeating the action of sneaking snacks, which is probably something that annoys others.)",
+            "The kids are at it again, playing video games all night instead of doing their homework. (The kids are continuing their gaming habits despite being told to do something else.)",
+            "After a few weeks off, he\u2019s at it again\u2014running his daily marathon. (He is resuming his routine of running after taking a break.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At all",
+        "meaning": "\"At all\" is used to emphasize a negative statement, often meaning \"in any way,\" \"under any circumstances,\" or \"to any degree.\" It generally indicates a complete lack or absence of something.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "Do you care about this at all?",
+            "I don\u2019t like that movie at all. (The speaker dislikes the movie completely.)",
+            "The restaurant was not good at all. (The restaurant was completely bad.)",
+            "He didn\u2019t seem affected at all by the criticism. (The criticism had no effect on him.)",
+            "How can you be so careless? You don\u2019t care at all! (The speaker is frustrated because the person seems completely uncaring.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At best",
+        "meaning": "\"At best\" is used to express the most favorable or optimistic outcome, often in a situation where the reality is likely to be less ideal or where there's uncertainty. It suggests that even under the best circumstances, the situation may still not be great.",
+        "phrase_type": "Adverbial Phrase",
+        "example": [
+            "The project will be completed in a month at best.",
+            "The meeting will finish at best in an hour. (The best-case scenario is that the meeting ends in one hour.)",
+            "This project is, at best, going to be finished by the end of the week. (Even in the best case, the project won\u2019t be done earlier than the end of the week.)",
+            "The weather forecast predicts rain, and at best, we\u2019ll have a break in the clouds for an hour. (The best hope is for a brief moment of clear skies, though it's still unlikely.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "At home",
+        "meaning": "\"At home\" refers to being inside one's residence or a familiar place, and it can also express a sense of comfort, belonging, or ease in a particular environment.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "He feels at home whenever he visits his grandmother's house.",
+            "She is at home right now, so you can visit her. (She is inside her house at the moment.)",
+            "He felt at home in the new city after just a few weeks. (He felt comfortable and settled in the new city.)",
+            "The team finally felt at home in their new training facility. (The team felt a sense of belonging and comfort in their new space.)",
+            "I\u2019m working at home today, so I won\u2019t be coming into the office. (The speaker is working from their own home.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Blind to",
+        "meaning": "\"Blind to\" means being unaware of or oblivious to something, often because of ignorance, lack of attention, or refusal to acknowledge the truth or reality of a situation.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "He is blind to his own mistakes.",
+            "She was blind to the risks involved in starting the business. (She was unaware of or ignored the risks of starting the business.)",
+            "Some people are blind to the impact of climate change on the environment. (Some people refuse to acknowledge or are unaware of the severity of climate change.)",
+            "The company was blind to the potential damage their new policy would cause. (The company failed to realize or understand the negative effects of their new policy.)",
+            "She was blind to the beauty of the city because she was so focused on work. (She failed to notice the beauty around her because she was too focused on work.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Bound for",
+        "meaning": "\"Bound for\" indicates that someone or something is heading toward a specific destination or is destined for a particular place, goal, or outcome. It can also imply being determined to reach that destination or result.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "The train is bound for New York.",
+            "The train is bound for New York City. (The train is going to New York City.)",
+            "The ship is bound for the remote island to deliver supplies. (The ship is travelling to the island.)",
+            "He\u2019s bound for greatness with his talent and determination. (He is destined to become great due to his abilities.)",
+            "The flight was bound for Paris, with a layover in London. (The flight\u2019s final destination is Paris.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Bound by",
+        "meaning": "\"Bound by\" refers to being restricted, obligated, or controlled by something, such as a rule, law, agreement, or other external factors. It can also imply being held together by a physical or metaphorical force.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "Employees are bound by the company's confidentiality agreement.",
+            "We are bound by the terms of the contract to deliver the goods on time. (We are obligated to fulfil the contract\u2019s terms.)",
+            "The workers were bound by strict safety regulations in the factory. (The workers had to follow safety rules due to regulations.)",
+            "The prisoners were bound by their hands and feet. (Their hands and feet were physically tied together.)",
+            "The team is bound by their commitment to winning the championship. (The team is united by their shared goal of winning.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Cruel to",
+        "meaning": "\"Cruel to\" refers to being unkind, harsh, or causing unnecessary pain or suffering to someone or something. It often describes behavior that is intentionally hurtful or insensitive.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "He was cruel to his younger brother.",
+            "She was cruel to her younger brother, always making fun of him. (She treated her brother unkindly and hurt him emotionally.)",
+            "It is cruel to leave a pet outside in the cold without shelter. (It is unkind and inhumane to treat the pet this way.)",
+            "The critics were cruel to the artist, destroying his confidence with their harsh reviews. (The critics were excessively harsh and unkind, hurting the artist emotionally.)",
+            "It\u2019s cruel to compare one child to another and make them feel inferior. (It\u2019s unkind and unnecessary to cause one child to feel less than the other.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Content with",
+        "meaning": "\"Content with\" means to be satisfied or happy with something, without feeling the need for more or something better. It indicates a state of acceptance or fulfillment regarding a particular situation, person, or object.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "She is content with her simple life in the countryside.",
+            "She was content with her job, even though it wasn\u2019t her dream career. (She was satisfied with her job, even if it wasn\u2019t perfect for her.)",
+            "They were content with their small apartment, as long as it met their basic needs. (They were satisfied with their apartment, not looking for a bigger one.)",
+            "After years of searching, he finally felt content with his life choices. (He felt at peace and satisfied with the decisions he had made.)",
+            "She\u2019s content with the friends she has and doesn\u2019t feel the need to expand her circle. (She is happy with her current friendships and doesn't want more.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Close by",
+        "meaning": "\"Close by\" refers to something being near or in close proximity to a particular place or person. It indicates a short distance away, typically within walking distance or nearby.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "There's a coffee shop close by if you need a break.",
+            "There\u2019s a park close by where we can go for a walk. (The park is nearby or within a short distance.)",
+            "Is there a restaurant close by that we can visit for lunch? (Is there a nearby restaurant we can go to?)",
+            "She\u2019s always close by, ready to help when needed. (She is nearby or always within reach to assist.)",
+            "I heard someone calling my name, and when I looked around, the person was close by. (The person was standing near me.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Deficient in",
+        "meaning": "\"Deficient in\" means to be lacking or insufficient in something, often referring to something that is necessary or required, like a quality, ability, or substance.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "She is deficient in vitamin D.",
+            "The diet was deficient in vitamins, leading to health issues. (The diet lacked essential vitamins.)",
+            "The team was deficient in experience, which contributed to their loss. (The team didn\u2019t have enough experience.)",
+            "The area was deficient in basic infrastructure, such as roads and sanitation. (The area lacked the necessary infrastructure.)",
+            "He was deficient in iron, which caused fatigue and weakness. (He lacked an adequate amount of iron in his body.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Devoid of",
+        "meaning": "completely lacking or without something. It is used to describe the absence of something important or necessary.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "The desert is devoid of water.",
+            "The room was devoid of furniture, making it feel very empty. (The room lacked any furniture.)",
+            "The story was devoid of any real plot, making it hard to follow. (The story lacked a meaningful plot.)",
+            "The soil is devoid of moisture, which is why the plants aren\u2019t growing. (The soil lacks moisture.)",
+            "Her response was devoid of sympathy, which upset him. (Her response lacked sympathy.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Dependent on",
+        "meaning": "\"Dependent on\" means relying or counting on something or someone for support, aid, or functioning. It indicates a need for something else to exist, function, or succeed.",
+        "phrase_type": "Prepositional Phrase",
+        "example": [
+            "Children are dependent on their parents for food and shelter.",
+            "The child is dependent on her parents for care and support. (The child relies on her parents for care.)",
+            "The success of the project is dependent on the team's cooperation. (The project's success relies on the team's cooperation.)",
+            "The website is dependent on a stable internet connection to load properly. (The website requires a stable internet connection to function.)",
+            "He is financially dependent on his parents while studying. (He relies on his parents financially.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Determined to",
+        "meaning": "having a strong intention or commitment to do something, often despite challenges or difficulties. It shows a firm resolve or decision to achieve a goal.",
+        "phrase_type": "Adjective + Infinitive Verb",
+        "example": [
+            "She is determined to pass the exam.",
+            "She is determined to finish the marathon, no matter how tough it gets. (She has decided to complete the marathon, even if it's difficult.)",
+            "They are determined to improve their grades this semester. (They are focused on getting better grades.)",
+            "Despite the setbacks, he is determined to keep pushing forward with his project. (He is willing to keep trying hard with his project.)",
+            "She is determined to prove everyone wrong and succeed. (She is focused on succeeding, no matter what.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Disappointed at",
+        "meaning": "to feeling unhappy or dissatisfied due to something not meeting expectations or desires. It is used when expressing regret or dissatisfaction about an event, action, or outcome.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She was disappointed with the test results.",
+            "She was disappointed at the results of her exam. (She was unhappy because her exam results were not as expected.)",
+            "I am disappointed at your decision to drop out of the competition. (I feel regretful or unhappy about your decision.)",
+            "They were disappointed at his rude behaviour during the meeting. (They felt dissatisfied or let down by his rude behaviour.)",
+            "I was disappointed at not getting the job I applied for. (I was unhappy because I did not get the job.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Engaged in",
+        "meaning": "being involved in or participating in an activity, task, or process. It suggests being actively engaged or occupied with something.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is engaged in a new research project at the university.",
+            "She is engaged in a volunteer project to help the homeless. (She is actively participating in a project to assist homeless people.)",
+            "He was engaged in preparing dinner when the phone rang. (He was busy cooking when the phone rang.)",
+            "The company is engaged in negotiations with potential investors. (The company is actively involved in talks with investors.)",
+            "The team is engaged in a mission to raise awareness about environmental issues. (The team is working purposefully on raising awareness.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Engaged to",
+        "meaning": "being promised in marriage to someone. It is used when someone is formally or informally committed to marry a specific person.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is engaged to her high school sweetheart.",
+            "She is engaged to John, and they are planning their wedding for next year. (She has promised to marry John.)",
+            "He is engaged to a woman he met in college. (He is committed to marrying the woman he met in college.)",
+            "They are engaged to be married in the fall. (They are in the engagement phase and planning to marry soon.)",
+            "He proposed, and now they are engaged to each other. (They are committed to marry after the proposal.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Envious of",
+        "meaning": "feeling jealous or desiring something that someone else has. It describes a feeling of wanting what others possess or achieve.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She was envious of her friend's success.",
+            "She was envious of her friend's new car. (She felt jealousy because her friend had a new car.)",
+            "I am envious of your talent for painting. (I wish I had your ability to paint.)",
+            "I was envious of their peaceful life in the countryside. (I felt jealousy because of their calm and peaceful lifestyle.)",
+            "She\u2019s always envious of the way other people handle stress. (She feels jealous because others seem to manage stress better.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Exempt from",
+        "meaning": "being freed or excused from a rule, obligation, or requirement. It implies that someone or something is not required to follow certain conditions or rules.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "Students with medical conditions are exempt from physical education classes.",
+            "He is exempt from paying taxes this year due to his income level. (He does not have to pay taxes this year because of his financial situation.)",
+            "The elderly are exempt from certain duties in the military. (Elderly individuals do not have to perform certain military duties.)",
+            "He is exempt from the jury duty due to his health condition. (He is not required to attend jury duty because of his health.)",
+            "Diplomats are exempt from certain taxes while working abroad. (Diplomats are not required to pay certain taxes when serving in other countries.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Familiar with",
+        "meaning": "having knowledge of or being acquainted with something or someone through experience or exposure. It implies comfort and understanding due to prior experience or recognition.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "I am familiar with Python programming.",
+            "She is familiar with the latest technology trends. (She knows about the current technology trends.)",
+            "He is familiar with the city\u2019s public transport system. (He knows how to use the city's transportation system well.)",
+            "She is familiar with many of the staff at the company. (She knows many employees at the company.)",
+            "He was familiar with the sound of her voice. (He recognized her voice right away.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Fond of",
+        "meaning": "having a liking or affection for someone or something. It implies enjoyment or attachment to something or someone due to positive feelings.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is very fond of her little brother.",
+            "She is fond of reading mystery novels. (She enjoys reading mystery novels.)",
+            "He is very fond of his dog. (He loves or has a strong affection for his dog.)",
+            "I'm fond of hiking in the mountains. (I enjoy hiking in the mountains.)",
+            "They are very fond of each other. (They care about each other deeply.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Full of",
+        "meaning": "something being completely occupied or filled with a certain quality, object, or substance. It can describe either a physical container or abstract ideas, emotions, or experiences.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "The glass is full of water.",
+            "The basket is full of apples. (The basket contains many apples.)",
+            "She is full of energy. (She is very energetic.)",
+            "He was full of excitement before the concert. (He was very excited before the concert.)",
+            "His speech was full of interesting facts. (His speech contained many interesting facts.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Good at",
+        "meaning": "describe someone's ability or skill in doing something well. It implies competence or proficiency in a specific task or activity.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is good at math.",
+            "She is good at playing the piano. (She plays the piano well.)",
+            "John is good at drawing. (John has talent in drawing.)",
+            "They are good at managing stressful situations. (They can handle stress well.)",
+            "He is good at understanding complex concepts. (He is skilled at grasping difficult ideas.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Grateful for",
+        "meaning": "used to express thankfulness or appreciation for something or someone. It conveys a sense of being thankful for a specific event, action, or gift.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "I am grateful for your help.",
+            "I am grateful for your help with the project. (I appreciate your help with the project.)",
+            "He is grateful for the kind gesture from his friend. (He appreciates the kindness his friend showed.)",
+            "I\u2019m grateful for the memories we made on our trip. (I appreciate the wonderful memories from our trip.)",
+            "We are grateful for your continued support. (We appreciate your ongoing help.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Guilty of",
+        "meaning": "used to indicate that someone has committed a crime, wrongdoing, or bad action. It implies responsibility for an offense or mistake.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He was found guilty of theft and sentenced to prison.",
+            "He is guilty of stealing from the store. (He has committed theft at the store.)",
+            "The company is guilty of exploiting workers. (The company has been responsible for unfair treatment of its workers.)",
+            "She feels guilty of not spending enough time with her family. (She feels responsible for neglecting her family.)",
+            "The team is guilty of losing the match because of poor performance. (The team is responsible for losing due to their bad performance.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Indifferent to",
+        "meaning": "used to describe someone who shows lack of interest, concern, or sympathy toward something or someone. It indicates a state of neutrality or apathetic attitude.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He seemed indifferent to the praise he received.",
+            "She is indifferent to politics. (She has no strong feelings or interest in politics.)",
+            "I am indifferent to the criticism I received. (I do not feel affected by the criticism.)",
+            "The manager was indifferent to the employees' complaints. (The manager did not show any concern for the complaints.)",
+            "He is indifferent to what movie we watch. (He doesn't have a preference for the movie.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Innocent of",
+        "meaning": "used to describe someone who is not guilty or not responsible for a particular crime, wrongdoing, or bad action. It suggests that the person has not committed the offense or does not have the fault attributed to them.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "The court declared him innocent of all charges.",
+            "The defendant was found innocent of all charges. (The defendant was not guilty of the accusations made against them.)",
+            "He is innocent of the accusations of cheating. (He did not cheat and is not responsible for the action.)",
+            "She is innocent of any ill intentions. (She has no bad intentions or evil purpose.)",
+            "He is innocent of the harsh realities of the business world. (He is unaware of the tough aspects of business.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Interested in",
+        "meaning": "used to describe someone who has curiosity, attention, or desire toward a particular subject, activity, or person. It indicates a feeling of engagement or involvement with something.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is interested in painting and photography.",
+            "She is interested in learning new languages. (She is curious or enthusiastic about learning languages.)",
+            "I'm interested in technology and its impact on society. (I have a strong interest in technology.)",
+            "She is interested in trying new foods. (She enjoys or wants to try new types of food.)",
+            "He is interested in her, but he's too shy to ask her out. (He likes her romantically.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Just to",
+        "meaning": "used to introduce an action or purpose. It is used to express a simple or singular intention for doing something. It can also be used to emphasize or downplay the reason behind an action.",
+        "phrase_type": "Adverb + Infinitive",
+        "example": [
+            "She stayed late just to finish the project on time.",
+            "I came just to say thank you. (The only reason I came was to express my gratitude.)",
+            "He left just to grab some coffee. (The reason for leaving was simple: to get coffee.)",
+            "He moved the chair just to get a better view. (The action of moving the chair was minimal or small in purpose.)",
+            "I stepped outside just to grab the mail. (The action was brief and solely for retrieving the mail.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Kind to",
+        "meaning": "used to describe someone's benevolent or considerate behavior towards others. It refers to being compassionate, generous, or helpful in actions or attitudes.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is always kind to animals.",
+            "She was very kind to her neighbours, always helping them with groceries. (She was considerate and helpful toward her neighbours.)",
+            "He was kind to the elderly lady, offering her a seat on the bus. (He showed compassion toward the elderly lady.)",
+            "It was kind of her to bring a gift for everyone at the party. (Her action of bringing a gift showed generosity and thoughtfulness.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Liable to",
+        "meaning": "likely to or prone to experiencing something, usually an undesirable event or outcome. It can also refer to legal responsibility in some contexts.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "If you break the contract, you will be liable to legal action.",
+            "The ground is liable to freeze overnight, so be careful when walking. (There is a high chance the ground will freeze, so caution is advised.)",
+            "People who don\u2019t sleep enough are liable to feel tired and sluggish the next day. (They are likely to feel tired if they don't get enough sleep.)",
+            "If the company violates the contract, they will be liable to pay compensation. (The company is legally responsible to pay compensation in case of a violation.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Loyal to",
+        "meaning": "showing faithfulness, support, or allegiance to a person, group, cause, or organization. It implies a sense of dedication and reliability in relationships or duties.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She has always been loyal to her best friend.",
+            "She has always been loyal to her friends, standing by them through thick and thin. (She has consistently supported her friends in all situations.)",
+            "The soldiers remained loyal to their commander, even in the face of danger. (The soldiers continued to support their commander no matter the risk.)",
+            "She is loyal to her values and never compromises on them. (She stays true to her principles and beliefs.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Particular about",
+        "meaning": "being selective, careful, or picky about something. It refers to having specific preferences or requirements and wanting things to be done or chosen in a certain way.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He is very particular about his job.",
+            "She is very particular about the food she eats and only likes organic produce. (She is choosy and careful about her food choices, preferring organic options.)",
+            "John is particular about his work environment and prefers a quiet, organized space. (John is very specific about the type of environment he wants for working.)",
+            "My mother is particular about cleaning, making sure every corner of the house is spotless. (She takes great care and attention in cleaning.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Patient with",
+        "meaning": "being tolerant, calm, and understanding when dealing with something or someone, especially when there is difficulty, delay, or frustration involved. It describes the ability to stay calm and composed in challenging or slow situations.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "A salesman should always be patient with his customers.",
+            "She is very patient with children and always listens to their needs. (She remains calm and understanding while interacting with children.)",
+            "The teacher is patient with students who struggle to understand the material. (The teacher gives time and attention to students who find learning difficult.)",
+            "She\u2019s patient with the long lines at the store and never complains. (She remains calm and doesn\u2019t get upset, even with delays.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Pleased with",
+        "meaning": "feeling happy, satisfied, or content about something or someone. It refers to the feeling of being satisfied or happy with a particular outcome, situation, or the behavior of someone.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "I am pleased with your performance in the test.",
+            "She was pleased with the results of her hard work on the project. (She was happy or satisfied with how the project turned out.)",
+            "They were pleased with the performance of the team in the final match. (They were happy and satisfied with how the team played in the match.)",
+            "The manager was pleased with the way the employees handled the crisis. (The manager was happy and satisfied with how the employees reacted to the situation.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Pleased to",
+        "meaning": "feeling happy or satisfied about doing something. It expresses a positive emotional response when someone is about to do something or when they have the opportunity to do something.",
+        "phrase_type": "Adjective + Infinitive Verb",
+        "example": [
+            "I am pleased to inform you that you have passed the exam.",
+            "I am pleased to meet you. (I am happy to have the opportunity to meet you.)",
+            "He is pleased to offer his services to the team. (He is happy to provide his assistance to the team.)",
+            "We are pleased to inform you that your application has been accepted. (We are happy to let you know that your application has been successful.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Prejudiced against",
+        "meaning": "having a biased or unfair negative opinion or attitude toward someone or something, typically based on stereotypes or preconceived notions, rather than facts or personal experience.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He was prejudiced against people from different backgrounds.",
+            "He was prejudiced against people from other cultures, which affected his interactions with them. (He had an unfair negative opinion about people from different cultures.)",
+            "The teacher was prejudiced against students from low-income families, which influenced her grading. (The teacher held unfair views about students from low-income families.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Proud of",
+        "meaning": "feeling pleasure or satisfaction as a result of something you or someone else has accomplished or achieved. It often refers to having a sense of honor, respect, or admiration for someone or something.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He is very proud of his achievements.",
+            "She is proud of her son for winning the competition. (She feels pleased about her son's victory in the competition.)",
+            "He was proud of the work he did on the new design. (He felt pleased and satisfied with the design he created.)",
+            "She\u2019s proud of her team for working so hard to finish the project on time. (She admires her team's hard work and effort.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Qualified for",
+        "meaning": "having the skills, experience, education, or credentials needed to meet the requirements for a particular position, task, or opportunity. It expresses suitability or eligibility for something.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "He is not qualified enough for this post.",
+            "She is qualified for the job of marketing manager because of her experience in the field. (She has the necessary experience to be considered for the marketing manager role.)",
+            "You are qualified for a position in law if you have a law degree. (A law degree is necessary to apply for legal positions.)",
+            "She was qualified for the scholarship due to her high academic achievements. (Her academic performance made her eligible for the scholarship.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Qualified to",
+        "meaning": "having the necessary skills, experience, training, or credentials to perform a specific action or task. It expresses the ability or permission to do something.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "She is qualified to teach English.",
+            "She is qualified to teach advanced mathematics at the university level. (She has the required knowledge and qualifications to teach this subject.)",
+            "You\u2019re not qualified to make decisions about the project until you have more experience. (You don\u2019t have the right level of experience to make decisions yet.)",
+            "He is qualified to serve as the team leader based on his years of experience. (He has the required experience to be the team leader.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Related to",
+        "meaning": "connected or associated with something in a meaningful way. It is used to indicate a relationship between two or more things.",
+        "phrase_type": "Adjective + Prepositional Phrase",
+        "example": [
+            "This book is related to history.",
+            "The new policy is related to the recent changes in the law. (The new policy is connected to the changes made in the law.)",
+            "The topics discussed in the meeting were related to our upcoming project. (The meeting topics were about or connected with the upcoming project.)",
+            "He is related to me through my maternal side. (He is a family member connected through my mother\u2019s side.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Regardless of",
+        "meaning": "without being affected or influenced by a particular factor or condition. It implies that something happens or is true despite any other circumstances or considerations.",
+        "phrase_type": "Preposition + Noun Phrase",
+        "example": [
+            "We will go outside regardless of the weather.",
+            "She went ahead with the presentation regardless of the technical issues. (She proceeded with the presentation despite the technical problems.)",
+            "They made their decision regardless of public opinion. (They made the decision despite what the public thought.)",
+            "He continued to support his friend regardless of the criticism. (He kept supporting his friend no matter how much criticism he faced.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Supply with",
+        "meaning": "to provide someone or something with what is needed or required. It suggests delivering or furnishing necessary resources, items, or services to someone.",
+        "phrase_type": "Verb + Preposition (Phrasal verb)",
+        "example": [
+            "The contractor has supplied us with substandard material.",
+            "The company will supply us with the materials needed for the project. (The company will provide us with the materials required for the project.)",
+            "The store supplied us with all the ingredients for the recipe. (The store provided us with all the ingredients needed.)",
+            "The new job will supply you with a laptop and phone. (The job will provide you with a laptop and phone.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Suspect of",
+        "meaning": "to believe or have a feeling that someone is involved in a wrongdoing or a particular activity, often without having direct proof. It is typically used in the context of someone being suspected of committing a crime or unethical act.",
+        "phrase_type": "Verb + Preposition (Phrasal verb)",
+        "example": [
+            "The police suspect him of being a criminal.",
+            "He was suspected of stealing money from the office. (People believed that he might have stolen money, though there was no proof.)",
+            "She was suspected of cheating on the exam. (People thought she might have cheated, though it wasn't confirmed.)",
+            "They suspected him of hiding something important. (They believed he might be concealing something.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Sympathize with",
+        "meaning": "to feel or express understanding and compassion for someone's situation, especially when they are going through difficulties or facing challenges. It indicates empathy and concern for another person's feelings or experiences.",
+        "phrase_type": "Verb + Preposition (Phrasal verb)",
+        "example": [
+            "He did not even sympathize with me.",
+            "I really sympathize with her after losing her job. (I feel compassion for her because she lost her job.)",
+            "I sympathize with your point of view, but I don't fully agree. (I understand your opinion, but I may not share it completely.)",
+            "He sympathizes with people who struggle to balance work and personal life. (He understands and feels compassion for people who have trouble managing both work and personal matters.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Taste of",
+        "meaning": "an experience or small sample of something that gives an idea of what something is like, or it can describe the literal or figurative sense of flavor.",
+        "phrase_type": "Noun + Preposition",
+        "example": [
+            "I love the taste of chocolate.",
+            "I had a taste of the local food during my vacation. (I tried a small sample of the local food.)",
+            "The concert gave me a taste of how amazing the band is live. (The concert was a small experience that made me want more.)",
+            "The taste of the cake was absolutely delicious! (The flavour of the cake was very pleasant.)",
+            "After the argument, I got a taste of his anger. (I experienced his anger, even though it was brief.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take after",
+        "meaning": "to resemble or be similar to someone, especially in terms of appearance, behavior, or traits, usually referring to family members.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "He has taken after his father in his habits.",
+            "She really takes after her mother in terms of looks. (She looks a lot like her mother.)",
+            "Tom takes after his uncle in his love for music. (Tom has similar musical interests or talent as his uncle.)",
+            "The younger generation often takes after the older generation in how they approach technology. (The younger people are influenced by the older ones in how they use technology.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take down",
+        "meaning": "\"Take down\" has several meanings depending on the context. It can refer to removing something, writing something down, or defeating someone.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "He did not take down the notes given in the class.",
+            "They took down the old building to make space for new apartments. (They dismantled the building.)",
+            "I always take down notes during the meeting. (I write notes during the meeting.)",
+            "The team managed to take down their rivals in the final match. (The team defeated their rivals.)",
+            "Can you take down the volume? It's too loud. (Can you lower the volume?)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take for",
+        "meaning": "to regard or consider someone or something as something else. It can also mean to misidentify or mistake someone or something for something else.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "I took him for an honest person.",
+            "I took her for a teacher because of her professional appearance. (I thought she was a teacher.)",
+            "The man took me for my brother when he saw us from a distance. (He mistakenly thought I was my brother.)",
+            "She took his silence for agreement, but he was just thinking. (She assumed he agreed because he didn't speak.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take off",
+        "meaning": "\"Take off\" has several meanings depending on the context. It can refer to removing something, aircraft leaving the ground, or becoming successful.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "The plane took off on time.",
+            "He took off his shirt because of the heat.",
+            "She took off her jacket as soon as she entered the house. (She removed her jacket.)",
+            "The plane took off at 7:00 AM. (The plane left the ground and began flying.)",
+            "Her business really took off after she launched her online store. (Her business became very successful.)",
+            "He just took off without saying goodbye. (He left quickly without any farewell.)",
+            "The comedian took off the president in his latest sketch. (The comedian imitated the president.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take over",
+        "meaning": "to gain control or assume responsibility for something, such as a business, task, or situation. It can also mean to replace or dominate.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "The new chief minister has not taken over as yet.",
+            "The new CEO will take over the company next month. (The new CEO will assume control of the company.)",
+            "The company was taken over by a larger competitor. (The larger competitor gained control of the company.)",
+            "The kids took over the living room with their toys. (The kids took control of the living room space.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Take up (to deal)",
+        "meaning": "to start or engage in a particular task, activity, or topic. It can also mean to address or discuss an issue or matter.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "I shall take up this matter in the Supreme Court.",
+            "He decided to take up playing the guitar in his free time. (He decided to start learning the guitar.)",
+            "The manager will take up the issue of employee benefits in the next meeting. (The manager will discuss or address the issue of employee benefits.)",
+            "The new furniture takes up a lot of room in the living room. (The new furniture occupies a lot of space.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn against",
+        "meaning": "to develop hostility or become hostile or oppose someone or something, often unexpectedly or after a change in feelings or opinions.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "The People have turned against the king.",
+            "After the scandal, the public turned against the politician. (The public began to dislike or oppose the politician after the scandal.)",
+            "Many of his followers turned against his views as they evolved. (They began to oppose or disagree with his views.)",
+            "The media's coverage of the event turned the audience against the singer. (The media's portrayal caused the audience to become hostile or disapprove of the singer.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn away",
+        "meaning": "to move or direct one\u2019s body or face away from something or someone. It can also mean to refuse to help or reject someone or something, especially in a situation where help or assistance is needed.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "Turn him away when he comes here.",
+            "She turned away when she saw the accident. (She moved her body or face away from the accident.)",
+            "The hotel turned away many guests due to the overbooking. (The hotel rejected or didn\u2019t accept guests because they didn\u2019t have enough rooms.)",
+            "He turned away from the temptation to cheat on the test. (He avoided or resisted the temptation to cheat.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn down (to reject)",
+        "meaning": "to reject or refuse something, such as an offer, invitation, or request. It can also mean to lower the intensity of something, such as volume or temperature.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "His appeal has been turned down by the High Court.",
+            "She turned down the job offer because it didn\u2019t meet her expectations. (She refused or rejected the job offer.)",
+            "Could you turn down the music? It's too loud. (Lower the volume of the music.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn on (to switch on)",
+        "meaning": "to switch on or activate something, typically an electrical device or system. It can also mean to excite or attract someone emotionally or physically.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "Please turn on the lights; it's getting dark. (Activate the lights.)",
+            "The idea of adventure really turns him on. (The idea of adventure excites him.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn off (to switch off)",
+        "meaning": "to switch off or deactivate something, such as an electrical device, machine, or system. It can also mean to stop or distract someone's interest or attention.",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "Don't forget to turn off the lights when you leave. (Switch off the lights.)",
+            "I don't know why, but his attitude really turns her off. (His attitude makes her lose interest or repels her.)"
+        ],
+        "note": ""
+    },
+    {
+        "phrase": "Turn out",
+        "meaning": "It generally refers to the result or final outcome of a situation or event. It can also mean to attend or to appear at an event or place, or to switch off (in certain contexts).",
+        "phrase_type": "Phrasal verb (Verb + Preposition)",
+        "example": [
+            "The event turned out to be a huge success. (The event resulted in success.)",
+            "A lot of people turned out for the concert. (Many people attended the concert.)",
+            "He turned out the lights before leaving the room. (He switched off the lights.)"
+        ],
+        "note": ""
+    }
+]
