@@ -1,8 +1,16 @@
 from flask import Flask, render_template, request, jsonify
 import json
 import os
+from models import db, Phrase, Example
+from config import Config
+
 app = Flask(__name__)
 
+app.config.from_object(Config)
+db.init_app(app)
+
+with app.app_context():
+     db.create_all()
 
 DATA_FILE = "user_data.json"
 
@@ -52,11 +60,6 @@ def save_data(new_data):
           json.dump(data, file, indent=4)
      
      return True
-
-
-
-
-
 
 @app.route("/")
 def index():
