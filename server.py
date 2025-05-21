@@ -30,6 +30,18 @@ def load_existing_data():
                     return []
      return []
 
+def initialize_json_data_to_database():
+     with app.app_context():
+          a = load_existing_data()
+          for i in a:
+               phrase = Phrase(phrase=i["phrase"], meaning=i["meaning"], phrase_type=i["phrase_type"], note=i["note"])
+               db.session.add(phrase)
+               db.session.commit()
+               for example in i["example"]:
+                    example_entry = Example(content=example, phrase_id=phrase.id)
+                    db.session.add(example_entry)
+                    db.session.commit()
+
 def save_data(new_data):
      """Save only 'phrase' and 'example' if it's not a duplicate phrase."""
      data = load_existing_data()
@@ -79,4 +91,5 @@ def receive_data():
 
 if __name__=="__main__":
      initialize_data_file()
+     initialize_json_data_to_database()
      app.run("0.0.0.0",debug=True)
